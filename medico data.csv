@@ -1,0 +1,628 @@
+﻿Gender,Age Group,Complaint,Diagnosis
+M,10•19,"Headache, Fever",Malaria
+F,20>,Toothache,Dental Cavity
+M,10•19,"Painful Swelling, Fever","Malaria, Upper Respiratory Tract Infection"
+M,10•19,Fever,Malaria
+F,20>,"Headache, Body Pain",Malaria
+M,10•19,"Headache, Fever",Malaria
+M,10•19,"Weakness, Body Pain, Fever",Malaria
+M,20>,"Headache, Fever",Malaria
+F,10•19,Fever,Drug-Resistant Malaria
+F,10•19,Fever,Drug-Resistant Malaria
+M,10•19,Cough,Upper Respiratory Tract Infection
+M,10•19,Fever,Drug-Resistant Malaria
+M,10•19,Headache,Stress-Induced Headache
+M,20>,Left Flank Pain,"Urinary Tract Infection, Musculoskeletal Pain"
+F,10•19,Fever,Drug-Resistant Malaria
+F,20>,Fever,Drug-Resistant Malaria
+F,20>,Fever,Drug-Resistant Malaria
+M,10•19,Toothache,Dental Cavity
+M,20>,Burns,Skin Burns
+M,10•19,Fever,Drug-Resistant Malaria
+F,20>,Fever,Drug-Resistant Malaria
+F,20>,Abdominal Pain,Acute Food Poisoning
+M,10•19,Fever,Malaria
+M,20>,Fever,Drug-Resistant Malaria
+F,20>,Fever,Drug-Resistant Malaria
+F,10•19,Fever,"Drug-Resistant Malaria, Upper Respiratory Tract Infection"
+M,20>,Fever,Drug-Resistant Malaria
+M,20>,Fever,Drug-Resistant Malaria
+F,20>,Fever,Drug-Resistant Malaria
+F,10•19,Cough,Upper Respiratory Tract Infection
+M,20>,"Headache, Body Pain",Malaria
+M,20>,"Weakness, Body Pain","Malaria, Upper Respiratory Tract Infection"
+F,10•19,Weakness,Malaria
+F,10•19,"Headache, Weakness",Malaria
+M,20>,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+F,20>,"Headache, Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,20>,Fever,"Malaria, Sepsis"
+M,10•19,Fever,Malaria
+M,10•19,Pain,Musculoskeletal Pain
+M,10•19,Rash,Urticaria
+M,20>,Fever,Malaria
+M,20>,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,10•19,Fever,Malaria
+F,10•19,"Headache, Body Pain",Malaria
+M,10•19,Body Pain,Malaria
+M,20>,"Headache, Fever",Malaria
+M,10•19,Fever,Malaria
+M,20>,Fever,Malaria
+M,10•19,Fever,Malaria
+M,20>,"Fever, Ear Pain","Otitis Media, Malaria"
+F,20>,"Fever, Stooling","Gastroenteritis, Malaria"
+M,10•19,Fever,Malaria
+F,10•19,Fever,Malaria
+M,20>,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,20>,"Itching, Skin Rash",Scabies
+F,10•19,Fever,Malaria
+M,10•19,Fever,Malaria
+M,10•19,Fever,Malaria
+M,20>,Fever,Malaria
+F,10•19,Cough,"Malaria, Upper Respiratory Tract Infection"
+M,10•19,Fever,"Malaria, Upper Respiratory Tract Infection"
+M,10•19,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,10•19,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,20>,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,20>,Fever,Malaria
+F,20>,Fever,Malaria
+M,10•19,Fever,Malaria
+F,20>,Fever,Malaria
+M,10•19,Fever,Malaria
+F,10•19,Fever,Malaria
+F,10•19,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,20>,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+F,20>,Fever,Malaria
+F,10•19,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+F,20>,Cough,Upper Respiratory Tract Infection
+M,20>,"Cough, Catarrh",Upper Respiratory Tract Infection
+M,10•19,"Mild Headache, Weakness",Drug-Resistant Malaria
+M,10•19,Fever,Malaria
+M,10•19,Ear Pain,Otitis Media
+M,10•19,Fever,Malaria
+M,10•19,Body Itching,Allergies
+M,20>,"Headache, Fever",Malaria
+M,10•19,Cough,Upper Respiratory Tract Infection
+M,10•19,"Body Pain, Fever",Malaria
+F,20>,"Headache, Fever, Vomiting",Malaria
+F,20>,"Headache, Weakness, Fever",Malaria
+F,10•19,Fever,Malaria
+F,10•19,Fever,Malaria
+F,20>,Fever,Malaria
+M,20>,"Headache, Fever",Malaria
+F,10•19,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,20>,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+F,20>,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+F,20>,Fever,Malaria
+F,10•19,Fever,Malaria
+F,20>,Fever,"Malaria, Sepsis"
+M,20>,Fever,"Malaria, Sepsis"
+F,10•19,"Headache, Fever",Acute Malaria
+M,10•19,"Headache, Fever",Acute Malaria
+M,10•19,"Headache, Fever",Malaria
+M,10•19,"Headache, Fever",Acute Malaria
+M,10•19,Cough,Upper Respiratory Tract Infection
+F,20>,"Headache, Fever",Acute Malaria
+M,10•19,Ear Pain,Otitis Media
+M,10•19,"Headache, Fever",Acute Malaria
+M,20>,Headache,Acute Malaria
+M,10•19,"Headache, Fever",Malaria
+F,20>,"Headache, Fever",Malaria
+F,10•19,"Headache, Weakness",Malaria
+F,20>,"Headache, Fever",Malaria
+M,10•19,"Headache, Fever",Acute Malaria
+M,10•19,"Headache, Fever",Acute Malaria
+M,20>,"Headache, Fever",Acute Malaria
+M,20>,"Headache, Fever",Acute Malaria
+M,10•19,Fever,Acute Malaria
+F,10•19,Cough,Upper Respiratory Tract Infection
+M,20>,Cough,Acute Asthma
+M,10•19,"Headache, Fever",Acute Malaria
+F,20>,"Fever, Cough",Acute Malaria
+M,10•19,"Fever, Cough",Acute Malaria
+M,10•19,"Fever, Cough",Acute Malaria
+F,10•19,"Fever, Cough",Acute Malaria
+M,20>,"Headache, Fever","Acute Malaria, Upper Respiratory Tract Infection"
+F,20>,Fever,Acute Malaria
+F,20>,Waist Pain,Musculoskeletal Pain
+F,20>,Headache,Malaria
+F,20>,"Headache, Weakness",Residual Malaria
+F,10•19,Fever,Drug-Resistant Malaria
+M,10•19,Fever,Drug-Resistant Malaria
+M,10•19,Fever,Drug-Resistant Malaria
+M,10•19,Fever,Drug-Resistant Malaria
+M,20>,Cough,Upper Respiratory Tract Infection
+M,20>,Headache,Stress-Induced Headache
+M,20>,Fever,Drug-Resistant Malaria
+M,10•19,Fever,Drug-Resistant Malaria
+F,10•19,Painful Swelling,Upper Respiratory Tract Infection
+M,10•19,Fever,Malaria
+M,10•19,Seizure,Seizure
+M,20>,Pain In Left Big Toe,Subluxation In Left Big Toe
+M,20>,Fever,Malaria
+M,10•19,"Headache, Body Pain, Fever",Malaria
+F,10•19,"Weakness, Fever",Malaria
+F,10•19,Rash On Face,Allergies
+M,10•19,Fever,Musculoskeletal Pain
+F,10•19,Fever,Residual Malaria
+M,10•19,Fever,Drug-Resistant Malaria
+M,10•19,Fever,Drug-Resistant Malaria
+M,20>,Chest Pain,Musculoskeletal Pain
+F,10•19,Headache,Malaria
+M,20>,Fever,Drug-Resistant Malaria
+M,10•19,Fever,Malaria
+M,10•19,Rash,Heat Rash
+F,20>,Pain,Dysmenorrhoea
+M,20>,Headache,Malaria
+M,10•19,Left Eye Swelling,Allergic Ophthalmitis
+M,10•19,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+F,20>,Fever,Malaria
+F,10•19,Fever,Malaria
+M,10•19,"Headache, Fever",Malaria
+F,10•19,Rash,Urticaria
+M,20>,Fever,Malaria
+F,20>,Fever,Malaria
+F,20>,"Headache, Weakness","Malaria, Gastritis"
+M,20>,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+F,20>,Fever,Malaria
+F,20>,"Headache, Dizziness",Malaria
+M,20>,Pain,Musculoskeletal Pain
+F,10•19,Fever,Acute Gastritis
+F,20>,Fever,Malaria
+F,20>,Cough,Upper Respiratory Tract Infection
+F,10•19,"Headache, Vomiting",Malaria
+F,20>,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+F,10•19,Pain,Dysmenorrhoea
+F,20>,Fever,Malaria
+F,20>,Fever,Malaria
+F,10•19,Fever,Malaria
+M,10•19,Fever,Malaria
+F,20>,Fever,Malaria
+F,20>,Fever,Malaria
+F,20>,Fever,Malaria
+F,20>,Fever,Malaria
+F,20>,"Fever, Cough",Malaria
+M,20>,Fever,Malaria
+F,20>,Fever,Malaria
+M,10•19,"Headache, Fever",Malaria
+F,10•19,"Headache, Fever",Malaria
+F,20>,"Fever, Cough",Malaria
+F,20>,Fever,Malaria
+M,10•19,Cough,Upper Respiratory Tract Infection
+M,10•19,Arm Pain,Arm Ache
+M,10•19,Fever,Malaria
+M,20>,"Headache, Fever",Enteric Fever
+M,10•19,Fever,Malaria
+M,10•19,Fever,Malaria
+M,20>,Fever,Malaria
+F,10•19,Pain,Dysmenorrhoea
+F,10•19,Fever,Malaria
+M,20>,"Headache, Fever",Malaria
+M,10•19,Tooth Ache,Tooth Ache
+F,10•19,"Headache, Weakness, Fever",Malaria
+M,10•19,"Headache, Weakness, Fever",Malaria
+M,10•19,"Headache, Fever",Malaria
+F,10•19,"Headache, Fever",Malaria
+M,10•19,Fever,Malaria
+M,10•19,"Headache, Fever",Malaria
+M,20>,Headache,Upper Respiratory Tract Infection
+M,10•19,"Headache, Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,20>,"Headache, Weakness",Malaria
+M,20>,"Headache, Fever",Malaria
+,10•19,"Toothache, Fever",Malaria
+M,10•19,"Headache, Poor Appetite",Malaria
+F,10•19,Epigastric Pain,Dyspepsia
+M,20>,Catarrh,Allergic Rhinitis
+M,20>,Skin Rash,Allergic Reaction
+M,20>,Flank Pain,Musculoskeletal Pain
+F,20>,Fever,Drug-Resistant Malaria
+F,20>,Itching,Allergic Dermatitis
+M,10•19,Fever,Malaria
+F,10•19,Painful Urinating,Urinary Tract Infection
+F,,Mild Headache,Malaria
+F,10•19,Headache,Malaria
+M,10•19,"Headache, Fever","Malaria, Upper Respiratory Tract Infection"
+F,20>,Fever,Malaria
+M,20>,"Headache, Fever",Malaria
+F,10•19,"Vomiting, Headache",Malaria
+M,10•19,Body Pain,Malaria
+M,20>,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,20>,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+F,20>,Fever,Malaria
+F,20>,Fever,Malaria
+F,10•19,Fever,Malaria
+M,10•19,"Headache, Fever",Malaria
+M,10•19,Fever,Acute Malaria
+M,20>,Fever,Acute Malaria
+M,10•19,Headache,Headache
+M,10•19,"Headache, Fever",Malaria
+F,10•19,"Headache, Weakness",Malaria
+M,10•19,"Headache, Body Pain, Fever",Malaria
+M,20>,Fever,Malaria
+M,10•19,Headache,Acute Malaria
+M,10•19,"Headache, Fever",Acute Malaria
+M,20>,"Headache, Fever",Acute Malaria
+F,10•19,"Headache, Fever",Acute Malaria
+M,10•19,"Headache, Fever",Acute Malaria
+F,10•19,Headache,Headache
+M,20>,"Body Pain, Fever",Malaria
+M,10•19,Eye Itching,Allergic Reaction
+F,20>,Stress,"Diarrhea, Acute Malaria"
+F,20>,Body Pain,Acute Malaria
+M,20>,"Headache, Fever",Acute Malaria
+M,20>,"Headache, Fever",Acute Malaria
+F,20>,"Fever, Cough",Malaria
+F,20>,Headache,Malaria
+F,20>,Cough,Upper Respiratory Tract Infection
+F,10•19,"Fever, Cough",Malaria
+F,10•19,"Fever, Cough",Malaria
+M,20>,Cough,"Malaria, Upper Respiratory Tract Infection"
+M,10•19,Fever,Malaria
+F,20>,Fever,Malaria
+F,10•19,Fever,Malaria
+F,20>,Fever,Malaria
+F,10•19,Body Pain,Pruritus
+F,10•19,Cough,Upper Respiratory Tract Infection
+M,20>,"Headache, Fever",Malaria
+M,10•19,"Headache, Body Pain, Fever",Malaria
+F,10•19,"Headache, Weakness, Fever",Malaria
+M,20>,"Fever, Cough",Upper Respiratory Tract Infection
+F,20>,Cough,Upper Respiratory Tract Infection
+M,10•19,"Headache, Fever",Malaria
+F,10•19,"Body Pain, Fever",Malaria
+M,20>,Fever,Malaria
+M,20>,"Headache, Body Pain",Malaria
+M,20>,"Headache, Body Pain, Fever",Malaria
+M,20>,"Headache, Fever",Malaria
+M,10•19,"Body Pain, Fever",Malaria
+M,10•19,"Headache, Fever",Malaria
+M,20>,"Headache, Fever",Malaria
+M,20>,Headache,Acute Malaria
+M,10•19,Fever,Acute Malaria
+M,20>,Fever,Acute Malaria
+M,20>,"Headache, Fever",Acute Malaria
+F,20>,Cough,Upper Respiratory Tract Infection
+M,10•19,Fever,Rhinitis
+M,10•19,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,20>,Fever,Malaria
+M,10•19,"Headache, Weakness",Malaria
+F,20>,Fever,Malaria
+M,20>,Fever,Malaria
+F,10•19,Fever,Malaria
+M,10•19,"Fever, Cough",Malaria
+M,10•19,Fever,Malaria
+F,20>,"Headache, Fever",Malaria
+M,10•19,Redness Of The Eye,Otitis Media
+F,20>,Fever,Acute Malaria
+F,10•19,"Headache, Fever",Malaria
+M,10•19,"Body Pain, Headache",Malaria
+M,20>,Fever,Acute Gastritis
+M,20>,Fever,Malaria
+F,10•19,"Body Pain, Fever","Malaria, Upper Respiratory Tract Infection"
+M,20>,"Body Pain, Cough","Malaria, Upper Respiratory Tract Infection"
+F,20>,Fever,Malaria
+M,20>,Cough,Upper Respiratory Tract Infection
+M,10•19,Headache,Acute Malaria
+F,10•19,Headache,Malaria
+M,10•19,Inflamed Gum,Gingivitis
+M,10•19,"Headache, Fever",Acute Malaria
+F,10•19,"Headache, Fever",Acute Malaria
+M,20>,"Pain, Fever","Malaria, Sepsis"
+M,10•19,Fever,"Malaria, Sepsis"
+M,10•19,Fever,Acute Malaria
+M,20>,Eye Strain,Allergies
+F,10•19,Fever,Acute Malaria
+M,20>,Fever,Malaria
+F,10•19,Fever,Malaria
+M,10•19,Fever,Malaria
+F,20>,Fever,Malaria
+F,20>,Fever,Malaria
+M,10•19,Fever,Malaria
+F,10•19,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,20>,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+F,10•19,Chest Pain,Chest Ache
+M,20>,Fever,Malaria
+M,20>,Fever,Malaria
+M,20>,Fever,Malaria
+M,10•19,Fever,Malaria
+M,20>,Fever,Malaria
+F,20>,"Headache, Fever",Acute Malaria
+F,10•19,Malaria,Malaria
+M,10•19,Fever,Malaria
+M,10•19,Pain,Shoulder Ache
+M,20>,Cough,Upper Respiratory Tract Infection
+F,10•19,Fever,Malaria
+F,20>,"Headache, Fever",Acute Malaria
+M,10•19,Headache,Acute Malaria
+F,10•19,"Headache, Cough","Rhinitis, Acute Malaria"
+M,10•19,Fever,Malaria
+F,20>,Fever,Malaria
+F,20>,"Headache, Fever",Malaria
+M,10•19,Fever,Malaria
+F,10•19,"Headache, Fever",Malaria
+F,20>,"Headache, Fever",Malaria
+F,10•19,"Headache, Fever",Diarrhea
+F,20>,Right Ear Pain,Otitis Media
+M,10•19,"Headache, Fever",Acute Malaria
+F,10•19,Fever,Malaria
+M,20>,Fever,Hand Injury
+F,10•19,"Headache, Fever",Acute Malaria
+M,20>,"Headache, Catarrh","Malaria, Upper Respiratory Tract Infection"
+M,20>,"Headache, Fever",Fever
+F,10•19,Itching Of Upper Jaw,Allergic Reaction
+M,20>,Fever,Malaria
+F,20>,Weakness,Malaria
+F,10•19,Headache,Malaria
+M,20>,Fever,Malaria
+M,10•19,Fever,Malaria
+F,10•19,Fever,Malaria
+M,20>,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,10•19,"Headache, Fever",Malaria
+M,10•19,Fever,Malaria
+M,10•19,Fever,Malaria
+M,10•19,Stooling,Acute Watery Diarrhea
+M,20>,Fever,Malaria
+M,20>,Fever,Malaria
+M,20>,Fever,Malaria
+F,10•19,Body Pain,Musculoskeletal Pain
+F,20>,Leg Wound,Injury
+F,10•19,"Headache, Fever",Malaria
+M,10•19,"Headache, Fever",Malaria
+M,20>,Fever,Malaria
+M,20>,"Fever, Cough","Malaria, Upper Respiratory Tract Infection"
+M,20>,Fever,Malaria
+F,20>,Fever,Malaria
+F,20>,Fever,Malaria
+M,20>,Fever,Malaria
+M,20>,Fever,"Malaria, Gastroenteritis"
+M,10•19,Fever,Malaria
+F,20>,Leg Wound,Injury
+M,10•19,Skin Rash,Dermatitis
+M,20>,"Fever, Cough",Malaria
+M,20>,"Headache, Fever",Malaria
+M,10•19,"Headache, Body Pain, Fever",Malaria
+F,10•19,"Headache, Runny Nose",Malaria
+M,20>,Headache,Malaria
+F,20>,"Itching, Skin Rash",Allergic Reaction
+M,10•19,Fever,Malaria
+M,20>,Headache,Malaria
+M,20>,Painful Swelling,Upper Respiratory Tract Infection
+M,20>,Fever,Malaria
+F,20>,Fever,Malaria
+M,20>,"Catarrh, Sore Throat","Malaria, Upper Respiratory Tract Infection"
+M,10•19,Fever,Malaria
+M,10•19,Headache,Malaria
+F,10•19,Headache,Malaria
+F,10•19,Headache,Malaria
+F,20>,Fever,Malaria
+M,20>,Body Rash,Dermatitis
+M,10•19,Fever,Malaria
+F,20>,Fever,Malaria
+M,10•19,Fever,Malaria
+F,10•19,Fever,Malaria
+M,10•19,Cough,"Malaria, Upper Respiratory Tract Infection"
+M,20>,Fever,Malaria
+M,20>,Fever,Malaria
+F,20>,"Cough, Chills","Malaria, Upper Respiratory Tract Infection"
+F,20>,Pain,Musculoskeletal Pain
+M,10•19,Fever,Malaria
+F,10•19,Left Big Toe Pain,Cellulitis
+F,20>,Fever,Malaria
+M,20>,"Headache, Weakness",Malaria
+F,20>,"Headache, Altered Taste",Malaria
+F,20>,Headache,Malaria
+M,10•19,Headache,Malaria
+F,20>,Fever,Malaria
+F,20>,Headache,Malaria
+M,10•19,Headache,Malaria
+M,20>,Boil In Chin,Carbuncle
+M,20>,"Body Pain, Bitter Taste",Malaria
+M,20>,Fever,Malaria
+M,20>,Intermittent Weakness,Malaria
+F,20>,Fever,Malaria
+M,20>,Fever,Malaria
+F,20>,Fever,Malaria
+F,10•19,Cough,Upper Respiratory Tract Infection
+M,20>,Fever,Enteric Fever
+M,20>,Fever,Acute Malaria
+M,20>,Headache,Malaria
+M,20>,Headache,Malaria
+M,20>,Body Pain,Residual Malaria
+M,20>,Catarrh,Malaria
+M,20>,Headache,Malaria
+F,20>,Headache,Malaria
+M,10•19,Fever,Malaria
+M,20>,Fever,Malaria
+M,10•19,Fever,Malaria
+F,20>,Fever,Malaria
+M,20>,Catarrh,Malaria
+M,20>,Fever,Malaria
+F,10•19,Fever,Malaria
+F,10•19,Cough,Upper Respiratory Tract Infection
+M,10•19,Headache,Malaria
+F,20>,Headache,Malaria
+M,20>,Headache,Malaria
+F,20>,Headache,Malaria
+F,10•19,Headache,Malaria
+F,20>,Headache,Malaria
+M,10•19,Headache,Malaria
+M,10•19,Catarrh,Malaria
+M,10•19,Fever,Malaria
+M,20>,Fever,"Malaria, Upper Respiratory Tract Infection"
+M,20>,Fever,Malaria
+F,10•19,Lower Abdominal Pain,Cystitis
+F,20>,Inability To See,Myopia
+M,10•19,Fever,Malaria
+F,10•19,Headache,Malaria
+F,10•19,Cough,Upper Respiratory Tract Infection
+F,20>,Body Pain,Musculoskeletal Pain
+M,20>,Waist Pain Dysuria,Urinary Tract Infection
+F,20>,Fever,Malaria
+F,10•19,Headache,Malaria
+F,20>,Fever,Malaria
+F,20>,Headache,Stress-Induced Headache
+M,20>,Fever,Malaria
+M,20>,Fever,Malaria
+F,20>,Catarrh,Allergic Rhinitis
+F,20>,Catarrh,"Malaria, Upper Respiratory Tract Infection"
+M,10•19,Fever,Malaria
+F,10•19,Fever,Malaria
+M,10•19,Fever,Malaria
+M,20>,Headache,Malaria
+F,20>,"Headache, Nausea",Malaria
+M,10•19,Fever,Malaria
+M,10•19,Fever,Malaria
+F,20>,Body Pain,Drug-Resistant Malaria
+F,20>,Headache,Malaria
+F,20>,Headache,Malaria
+F,20>,Body Pain,"Malaria, Refractive Error"
+F,20>,Headache,Malaria
+M,20>,"Carbuncles, Catarrh, Cough","Upper Respiratory Tract Infection, Carbuncle"
+M,20>,Headache,Malaria
+M,10•19,"Headache, Fever",Malaria
+M,10•19,"Headache, Fever",Malaria
+F,20>,Headache,Malaria
+M,20>,"Headache, Weakness",Malaria
+M,20>,Headache,Malaria
+M,20>,Headache,Malaria
+F,10•19,Headache,Malaria
+F,10•19,"Weakness, Fever",Malaria
+M,10•19,Headache,Malaria
+M,10•19,"Headache, Fever",Acute Malaria
+M,10•19,"Headache, Fever",Malaria
+M,20>,"Headache, Poor Appetite",Malaria
+F,20>,"Headache, Body Pain","Malaria, Neuromuscular Dystrophy"
+M,20>,Headache,Malaria
+M,20>,"Cough, Catarrh",Acute Malaria
+M,20>,"Headache, Body Pain",Malaria
+M,20>,Headache,Malaria
+M,20>,Headache,Malaria
+M,20>,Body Pain,Malaria
+M,20>,Chest Pain,Pleurisy
+F,20>,"Headache, Body Pain",Malaria
+F,10•19,Headache,Malaria
+M,10•19,Headache,Malaria
+F,20>,"Headache, Fever",Malaria
+F,20>,"Headache, Fever",Malaria
+M,20>,Headache,Malaria
+F,20>,"Headache, Fever",Malaria
+M,20>,Headache,Malaria
+M,20>,Catarrh,Malaria
+M,20>,Fever,Malaria
+F,10•19,Cough,"Malaria, Upper Respiratory Tract Infection"
+M,20>,Headache,Malaria
+F,20>,Fever,Malaria
+M,10•19,Fever,Malaria
+M,20>,Fever,Malaria
+M,10•19,Fever,Malaria
+F,10•19,Fever,Malaria
+F,20>,Eye Itching,Allergic Ophthalmitis
+F,20>,Headache,Malaria
+F,20>,Fever,Malaria
+F,20>,Fever,Malaria
+F,10•19,Fever,Upper Respiratory Tract Infection
+M,10•19,Fever,Malaria
+M,10•19,Fever,Malaria
+M,10•19,"Headache, Fever",Malaria
+F,10•19,Earache,Otitis Media
+F,10•19,"Body Pain, Fever",Malaria
+F,20>,Fever,Malaria
+M,10•19,"Headache, Fever",Malaria
+M,20>,Fever,Malaria
+M,20>,"Body Pain, Fever",Malaria
+M,10•19,"Headache, Fever",Malaria
+F,20>,"Body Pain, Headache",Residual Malaria
+M,10•19,"Headache, Fever",Malaria
+F,20>,Mild Body Pain,Malaria
+M,20>,Left Hand Swelling,Cellulitis
+M,10•19,Fever,Malaria
+F,20>,Fever,Malaria
+M,10•19,Fever,Malaria
+F,20>,Catarrh,Malaria
+F,20>,Swollen Eyes And Legs,Kidney Disease
+M,10•19,White Patches,Hypopigmented Patches
+M,20>,"Itching, Irritation Of Left Eye",Foreign Body In Left Eye
+M,20>,Fever,Malaria
+F,10•19,"Headache, Fever",Malaria
+M,20>,"Headache, Fever","Malaria, Upper Respiratory Tract Infection"
+F,10•19,Headache,Malaria
+M,10•19,Headache,Malaria
+M,10•19,Itching,Macular Rash
+F,20>,Left Ear Pain,Otitis Media
+F,10•19,Abdominal Pain,Enteric Fever
+M,20>,Headache,Malaria
+F,10•19,Fever,Malaria
+F,10•19,Fever,Malaria
+M,10•19,Fever,Malaria
+M,10•19,Fever,Malaria
+F,10•19,Cough,"Urinary Tract Infection, Malaria"
+M,20>,Headache,Stress-Induced Headache
+M,20>,Headache,Malaria
+M,20>,Fever,Malaria
+M,10•19,Fever,Malaria
+F,10•19,Fever,Malaria
+M,10•19,Fever,Malaria
+M,10•19,"Headache, Body Pain",Malaria
+M,20>,Fever,Malaria
+M,10•19,Fever,Malaria
+M,20>,Headache,Malaria
+M,20>,"Body Pain, Fever",Malaria
+M,20>,"Headache, Catarrh","Malaria, Upper Respiratory Tract Infection"
+M,20>,Headache,Malaria
+M,20>,"Headache, Fever",Malaria
+M,10•19,"Body Pain, Fever",Malaria
+M,10•19,Body Rash,Skin Rashes
+M,20>,"Headache, Fever",Malaria
+F,20>,Fever,Febrile Illness
+M,20>,Headache,Malaria
+M,10•19,Fever,Malaria
+M,20>,Fever,Malaria
+M,20>,"Headache, Fever, Nausea",Malaria
+M,20>,Headache,Malaria
+F,20>,"Itching, Skin Rash",Allergic Reaction
+M,10•19,Fever,Malaria
+M,20>,Headache,Malaria
+M,20>,Painful Swelling,Upper Respiratory Tract Infection
+M,20>,Fever,Malaria
+F,20>,Fever,Malaria
+M,20>,"Catarrh, Sore Throat","Malaria, Upper Respiratory Tract Infection"
+M,10•19,Fever,Malaria
+M,10•19,Headache,Malaria
+F,10•19,Headache,Malaria
+F,10•19,Headache,Malaria
+M,20>,Fever,Malaria
+F,20>,Fever,Malaria
+M,20>,Body Rash,Dermatitis
+M,10•19,Fever,Malaria
+F,20>,Fever,Malaria
+M,10•19,Fever,Malaria
+M,10•19,Cough,"Malaria, Upper Respiratory Tract Infection"
+M,20>,Fever,Malaria
+M,20>,Fever,Malaria
+F,20>,"Cough, Chills","Malaria, Upper Respiratory Tract Infection"
+F,20>,Pain,Musculoskeletal Pain
+F,10•19,Fever,Malaria
+F,10•19,Left Big Toe Pain,Cellulitis
+F,20>,Fever,Malaria
+M,20>,"Headache, Weakness",Malaria
+F,20>,"Headache, Altered Taste",Malaria
+F,20>,Headache,Malaria
+M,10•19,Headache,Malaria
+F,20>,Fever,Malaria
+M,20>,Headache,Malaria
+M,10•19,Headache,Malaria
+M,20>,Boil In Chin,Carbuncle
+M,20>,"Body Pain, Bitter Taste",Malaria
+M,20>,Fever,Malaria
+M,20>,Intermittent Weakness,Malaria
+F,20>,Fever,Malaria
+M,20>,Fever,Malaria
+F,20>,Fever,Malaria
+F,10•19,Cough,Upper Respiratory Tract Infection
+F,10•19,Headache,Allergic Rhinitis
+F,20>,Fever,Enteric Fever
+M,10•19,Fever,Acute Malaria
+M,20>,Headache,Malaria
+M,20>,Headache,Malaria
+M,20>,Body Pain,Residual Malaria
+F,20>,Catarrh,Malaria
